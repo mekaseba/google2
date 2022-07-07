@@ -4,8 +4,17 @@
 .input-blank {
     display: block;
     width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 .img-noche {
+    margin-left: auto;
     display: block;
     width: 300px;
+    margin-right: auto;
+    margin-bottom: 20px;
 }
